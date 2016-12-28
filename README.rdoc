@@ -1,0 +1,5 @@
+== README
+
+A really nice learning site. 
+
+Placing a db with users and creating a email possibility
